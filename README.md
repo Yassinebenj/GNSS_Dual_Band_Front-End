@@ -24,6 +24,7 @@ This project involves the end-to-end design, EM simulation, and hardware-readine
 ## 📂 Repository Structure
 ```text
 ├── Schematics/         # Signal chain and power management PDFs
-├── Simulation_Data/    # ADS data displays, Smith Charts, and Gain plots
+├── Simulation_Results/    # ADS data displays, Smith Charts, and Gain plots
+├── Gerber Files/        # For manufacturing
 ├── Layout/             # Gerber files and 3D PCB renders
-└── Docs/               # Final Technical Report and Showcase Presentation
+└── Documentation/               # Final Technical Report and Showcase Presentation
